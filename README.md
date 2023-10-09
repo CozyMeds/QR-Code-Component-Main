@@ -1,13 +1,12 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - QR Code Component
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+This is a solution to the [QR Code Component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Table of contents
 
-- [Frontend Mentor - Product preview card component solution](#frontend-mentor---product-preview-card-component-solution)
+- [Frontend Mentor - QR Code Component](#frontend-mentor---qr-code-component)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
-    - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
   - [My process](#my-process)
@@ -16,21 +15,14 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
-
 ### Screenshot
 
 ![](./static/images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-solution-Ng9B4IiTvV)
-- Live Site URL: [Github Pages](https://cozymeds.github.io/Product-preview-card-component/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-gG8dqSOoRQ)
+- Live Site URL: [Github Pages](https://cozymeds.github.io/QR-Code-Component-Main/)
 
 ## My process
 
