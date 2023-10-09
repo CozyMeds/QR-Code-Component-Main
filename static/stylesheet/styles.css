@@ -1,0 +1,14 @@
+/*_*_*_* Fonts *_*_*_*/
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+/*
+    font-family: 'Outfit', sans-serif;
+*/
+
+/*_*_*_* Reset *_*_*_*/
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
