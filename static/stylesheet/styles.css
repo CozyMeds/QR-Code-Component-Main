@@ -20,3 +20,56 @@
     --grayish-blue: hsl(220, 15%, 55%);
     --dark-blue: hsl(218, 44%, 22%);
 }
+
+/*_*_*_* Main Body Styling *_*_*_*/
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+    background-color: var(--light-gray);
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+}
+
+/*_*_*_* Main Container Styling *_*_*_*/
+.container {
+    display: inherit;
+    flex-direction: column;
+    align-items: center;
+
+    background-color: var(--white);
+    width: 20rem;
+    height: 31.063rem;
+    border-radius: 1.25rem;
+}
+
+.container > .main_img {
+    width: 288px;
+    border-radius: 0.625rem;
+
+    margin: 16px 0 0 0;
+}
+
+.container > .text_main {
+    display: inherit;
+    flex-direction: column;
+    align-items: center;
+    width: 288px;
+    height: 129px;
+    justify-content: center;
+
+    margin: 24px 0 0 0;
+}
+
+.container > .text_main > .title {
+    font-size: 22px;
+    font-weight: 700;
+    margin: 0 0 16px 0;
+}
+
+.container > .text_main > .text {
+    width: 260px;
+    color:  var(--grayish-blue);
+}
